@@ -1,15 +1,12 @@
-# Starter for deploying [fast.ai](https://www.fast.ai) models on [Render](https://render.com)
+# APP OVERVIEW
 
-This repo can be used as a starting point to deploy [fast.ai](https://github.com/fastai/fastai) models on Render.
+This app is used to identify image of baseball games from cricket gamgaes by using image classification in machine learning. 
 
-The sample app described here is up at https://fastai-v3.onrender.com. Test it out with bear images!
 
-You can test your changes locally by installing Docker and using the following command:
+# Use
+Here's a demo video of exactly how to use the app:
 
-```
-docker build -t fastai-v3 . && docker run --rm -it -p 5000:5000 fastai-v3
-```
+<a href="https://youtu.be/okR6wXTblYY" target="_blank"><img src="http://img.youtube.com/vi/okR6wXTblYY/0.jpg"
+alt="real leads" width="240" height="180" border="10" /></a>
 
-The guide for production deployment to Render is at https://course.fast.ai/deployment_render.html.
 
-Please use [Render's fast.ai forum thread](https://forums.fast.ai/t/deployment-platform-render/33953) for questions and support.
