@@ -1,6 +1,6 @@
 # App Overview
 
-This app is used to identify image of baseball games from cricket gamgaes by using image classification in machine learning. 
+This app is used to identify images of baseball games from cricket games by using image classification in machine learning. 
 
 
 # Use
